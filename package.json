@@ -4,7 +4,9 @@
   "description": "Slides voor de ISKA over training",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "kc serve -o",
+    "help": "npx open https://gitlab.rhea.infosupport.net/kenniscentrum/kc-cli",
+    "test": "kc lint"
   },
   "repository": {
     "type": "git",
@@ -24,5 +26,6 @@
   "homepage": "https://github.com/YoeriVD/training-iska#readme",
   "dependencies": {
     "@infosupport/kc-cli": "^3.3.6"
-  }
+  },
+  "devDependencies": {}
 }
