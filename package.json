@@ -1,0 +1,28 @@
+{
+  "name": "training-iska",
+  "version": "1.0.0",
+  "description": "Slides voor de ISKA over training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoeriVD/training-iska.git"
+  },
+  "keywords": [
+    "ISKA",
+    "training",
+    "info",
+    "support"
+  ],
+  "author": "Yoeri Van Damme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoeriVD/training-iska/issues"
+  },
+  "homepage": "https://github.com/YoeriVD/training-iska#readme",
+  "dependencies": {
+    "@infosupport/kc-cli": "^3.3.6"
+  }
+}
