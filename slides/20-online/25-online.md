@@ -12,20 +12,20 @@ slechte verbinding
 ---
 ## Leer iedereen kennen
 
-https://ideaflip.com/b/6s53y748eqk9/
+https://ideaflip.com/contrib/6s53y748eqk9/4RAw3x7v5FLO
 
 ---
 
 ## Herhaling
 
-https://ideaflip.com/b/j6x328xa3kza/
+https://ideaflip.com/contrib/j6x328xa3kza/TrebBoa968mx
 
 ---
 ## Interactie
 
-https://ideaflip.com/b/caai9rz9minc/
+https://ideaflip.com/contrib/caai9rz9minc/DhwKpJ36CmEV
 
 ---
 ## Labs
 
-https://ideaflip.com/b/4zfrjznkyrcx/
+https://ideaflip.com/contrib/4zfrjznkyrcx/7SfjOIpnPzMs
